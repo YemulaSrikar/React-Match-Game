@@ -1,0 +1,12 @@
+.images-list-container {
+  list-style-type: none;
+}
+.fruits-imgs {
+  height: 80px;
+  width: 100px;
+}
+.thumbnail-button {
+  border-width: 0px;
+  background-color: transparent;
+  cursor: pointer;
+}
